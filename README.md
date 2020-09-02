@@ -1,1 +1,1 @@
-# netCoreReactTypscript
+# netCoreReactTypescript
